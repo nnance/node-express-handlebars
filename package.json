@@ -1,0 +1,16 @@
+{
+  "name": "social_view",
+  "version": "1.0.0",
+  "description": "sample grid social view",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1",
+    "express-handlebars": "^2.0.1",
+    "purecss": "^0.6.0"
+  }
+}

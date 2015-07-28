@@ -1,0 +1,8 @@
+.pure-g p {
+  text-align: center;
+}
+
+.bordered {
+  padding: 1em;
+  border: 1px solid;
+}
